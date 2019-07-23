@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="poster_dimen">150dp</dimen>
+    <dimen name="large_size">25sp</dimen>
+    <dimen name="basic_size">20sp</dimen>
+    <dimen name="margin_left">16dp</dimen>
+    <dimen name="card_view_margin_top">10dp</dimen>
+    <dimen name="normal_text_size">15sp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="margin_top_large">20dp</dimen>
+    <dimen name="youtube">100dp</dimen>
+    <dimen name="margintoptext">50dp</dimen>
+    <dimen name="trailer_height">120dp</dimen>
+    <dimen name="youtube_margin_top">30dp</dimen>
+    <dimen name="card_review_corner_radius">2dp</dimen>
+    <dimen name="image_button">50dp</dimen>
+    <dimen name="textsize">12sp</dimen>
+    <dimen name="card_view_width">160dp</dimen>
+    <dimen name="card_view_height">220dp</dimen>
+    <dimen name="iv_height">300dp</dimen>
+</resources>
